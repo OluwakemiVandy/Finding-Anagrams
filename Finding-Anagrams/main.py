@@ -21,4 +21,4 @@ def find_anagram(word, anagram):
         return False
     #return True
 
-print(find_anagram(str, str))
+print(find_anagram("str1","str2"))
