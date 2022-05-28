@@ -3,8 +3,6 @@
 # find_anagrams("hello", "check") --> False
 # find_anagrams("below", "elbow") --> True
 
-
-from pickle import FALSE
 def find_anagram(word, anagram):
     # [assignment] Add your code here
     str1 = input("Please input word: ")
